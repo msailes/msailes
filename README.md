@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm Mark Sailes.
 
-I'm a Specialist Solutions Architect for Serverless at AWS. I focus on AWS Lambda, API Gateway, SNS, SQS, EventBridge and Step Functions.
+I'm a Snr Specialist Solutions Architect for Serverless at AWS. I focus on AWS Lambda, API Gateway, SNS, SQS, EventBridge and Step Functions.
 
 - 🔭 I’m currently working on improving the Java developer experience on AWS Lambda.
 - 🌱 I’m currently learning how to make 120x30px PTI images.
